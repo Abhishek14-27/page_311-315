@@ -1,0 +1,24 @@
+h3#heading {
+    text-align: right;
+}
+p#heading{
+    text-align: right;
+}
+body {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+div.textint {
+    text-indent: 50px;
+}
+.queryallign {
+    padding-left: 60px;
+}
+img.imgpos {
+    padding-left: 85px;
+}
+.frml {
+    text-align: right;
+    padding-right: 40%;
+}
